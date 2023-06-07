@@ -1,0 +1,20 @@
+{
+  "name": "awari-node",
+  "version": "1.0.0",
+  "description": "aplicação de exemplo no curso de backend da Awari",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./src/products/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eusouodaniel/awari-backend-jun-23.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eusouodaniel/awari-backend-jun-23/issues"
+  },
+  "homepage": "https://github.com/eusouodaniel/awari-backend-jun-23#readme"
+}
