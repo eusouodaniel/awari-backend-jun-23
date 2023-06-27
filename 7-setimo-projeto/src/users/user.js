@@ -1,9 +1,7 @@
 exports.exemplo = function () {
-    console.log('exemplo');
+  console.log('exemplo');
 }
 
 exports.mostrarMensagem = function () {
-    console.log('Estou no arquivo user');
+  console.log('Estou no arquivo user');
 }
-
-exports.teste = 'teste';
