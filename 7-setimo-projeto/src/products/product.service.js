@@ -10,7 +10,8 @@ exports.showProducts = function(param) {
   },{
     name: 'monitor',
     price: 3000,
-    category: 'Monitores'
+    category: 'Monitores',
+    active: false,
   }];
   return products.filter((product) => {
     return product.price > param;
